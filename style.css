@@ -6,10 +6,12 @@ html, body {
 }
 
 h1 {
+  font-family: Georgia, serif;
   font-size: 18px;
 }
 
 h2 {
+  font-family: Palatino, 'Palatino Linotype', serif;
   text-align: center;
   font-size: 2.0rem;
 }
