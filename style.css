@@ -5,7 +5,7 @@ html, body {
   height: 100%;
 }
 
-h1 {
+.h1 {
   font-family: Georgia, serif;
   font-size: 18px;
 }
@@ -26,6 +26,7 @@ div {
 }
 
 .nav h1 {
+  font-family: Georgia, serif;
   padding-left: 15px;
 }
 
